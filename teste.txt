@@ -7,4 +7,3 @@
 7- ssh-keygen -t rsa -C "email"
 8- notepad ~/.ssh/id_rsa.pub
 9- ssh -T git@github.com
-10-
