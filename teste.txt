@@ -1,0 +1,9 @@
+1-  git config --global user.name "name"
+2- git config --global user.email "email"
+3- git init
+4- touch teste.txt
+5- git add .
+6- git commit -m "Commit"
+7- ssh-keygen -t rsa -C "email"
+8- notepad ~/.ssh/id_rsa.pub
+9- ssh -T git@github.com
