@@ -1,4 +1,4 @@
-1-  git config --global user.name "name"
+1- git config --global user.name "name"
 2- git config --global user.email "email"
 3- git init
 4- touch teste.txt
